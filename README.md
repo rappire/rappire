@@ -1,4 +1,4 @@
-### Hi Welcome, i'm Rappire 👋
+### Hi Welcome, I'm Rappire 👋
 
 #### Backend Engineer
 Developers who create beneficial social values   
