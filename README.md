@@ -1,38 +1,46 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=PORTFOLIO&fontAlign=70&fontAlignY=40&color=gradient)
-<div>
+### Hi Welcome, i'm Rappire 👋
 
-<body>
-<h1>기술 스택</h1>
-<!-- Java -->
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<!-- spring -->
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<br/>
-<!-- python -->
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<!-- fastapi -->
-<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<br/>
-<!-- javascript -->
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<!-- vuedotjs -->
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-<!-- vuetify -->
-<img src="https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white">
-<br/>
-<!-- MysQL -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<!-- Oracle -->
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<!-- github -->
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<!-- aws -->
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+#### Backend Engineer
+Developers who create beneficial social values   
+A developer who thinks, researches, creates, and connects to practical realization by web   
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rappire)](https://solved.ac/rappire)
+
+🛠️ Stacks
+
+🖥️ Language  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>     
+💪🏼 Framework   
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>   
+🛢 DB   
+<img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>   
+🚀 Other    
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rappire&show_icons=true&theme=radical)
-<body>
 
-  
+🐱 About Me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rappire@gmail.com)](rappire@gmail.com)  
+[![Resume](https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=readme&logoColor=white&link=www.google.com)](www.google.com)  
+
+
+🏅 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rappire)](https://solved.ac/rappire/)  
+Samsung SW Pro Level
+
+🤝 Open Source Contribution
+|Name|PR|About|
+|------|---|---|
+|Logseq|https://github.com/logseq/logseq/pull/11320|Add Korean Translation|
+
+
