@@ -31,7 +31,7 @@
 <!-- aws -->
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rappire})](https://solved.ac/rappire)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rappire)](https://solved.ac/rappire)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rappire&show_icons=true&theme=radical)
 <body>
 
