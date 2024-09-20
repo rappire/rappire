@@ -31,7 +31,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rappire@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyumin-lee-365142288/)
-[![Resume](https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=readme&logoColor=white)](https://drive.google.com/file/d/1lSZEvc6XwKgB-aghfsL_r20IVrOzgden/view)  
 
 
 🏅 Algorithm
