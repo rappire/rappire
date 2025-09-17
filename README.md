@@ -21,10 +21,10 @@ A developer who thinks, researches, creates, and connects to practical realizati
 <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>   
-🚀 CI/CD
+🚀 CI/CD  
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
 #### 🐱 About Me
 
@@ -39,5 +39,3 @@ A developer who thinks, researches, creates, and connects to practical realizati
 |Name|PR|About|
 |------|---|---|
 |Logseq|https://github.com/logseq/logseq/pull/11320|Add Korean Translation|
-
-
