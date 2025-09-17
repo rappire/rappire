@@ -32,7 +32,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyumin-lee-365142288/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://rappire.vercel.app/)
 
-## 🏅 Certifications
+#### 🏅 Certifications
 <img src="https://img.shields.io/badge/CKAD-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
 #### 🤝 Open Source Contribution
