@@ -39,3 +39,4 @@ A developer who thinks, researches, creates, and connects to practical realizati
 |Name|PR|About|
 |------|---|---|
 |Logseq|https://github.com/logseq/logseq/pull/11320|Add Korean Translation|
+|helm-www|https://github.com/helm/helm-www/pull/1779|Fix Korean translations and update Apt installation instructions|
